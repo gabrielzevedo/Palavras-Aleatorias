@@ -1,8 +1,12 @@
-# palavras_aleatorias
+## Palavras Aleatórias
 
-Aplicativo com Palavras Aleatórias
+Aplicativo simples para estudo do framework Flutter.
 
-## Getting Started
+## To-do
+
+- Remover item diretamente da tela de Palavras Salvas
+
+## About Flutter
 
 This project is a starting point for a Flutter application.
 
